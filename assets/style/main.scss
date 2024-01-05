@@ -1,0 +1,180 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.conitoner {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.header_text {
+    display: flex;
+    margin-left: 1100px;
+    gap: 100px;
+    margin-bottom: 20px;
+}
+
+.headir_img {
+    margin-left: 10px;
+}
+
+.header_grup {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.headir_img_one {
+    margin-left: 10px;
+}
+
+.bernch_trelp {
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+
+.headir_img_two {
+    margin-left: 110px;
+    width: 640px;
+    height: 427px;
+    top: -0.39px;
+
+}
+
+.headir_img_three {
+    width: 600px;
+    height: 427px;
+    margin-left: 30px;
+
+
+}
+
+.well_inkell {
+    width: 600px;
+    height: 427px;
+    margin-left: 0px;
+    margin-top: 30
+}
+
+.headir_img_feve {
+    margin-left: 110px;
+}
+
+.arrict_clever {
+    margin-top: 30px;
+}
+
+.text_one {
+    margin-top: 20px;
+    margin-left: 210px;
+
+}
+
+.text_two {
+    margin-left: 890px;
+    margin-top: -10px;
+}
+
+.safe_brecks {
+    gap: 70px;
+    display: flex;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.repli_treppoy {
+    margin-left: 450px;
+
+}
+
+.lot_betus{
+    margin-top: 20px;
+      margin-left: 220px;
+}
+.cremter_lutts{
+    margin-top: -20px;
+    margin-left: 830px;
+}
+
+.trsc_abut {
+    margin-left: 220px;
+}
+
+@media only screen and (max-width:524px) {
+    .header_text {
+        margin-left: 630px;
+
+    }
+}
+
+@media only screen and (max-width:395px) {
+    .headir_img_three {
+        margin-left: 210px;
+        margin-top: 150px;
+        width: 850px;
+
+
+
+    }
+}
+
+@media only screen and (max-width:703px) {
+    .headir_img_one {
+        margin-left: 90px;
+        width: 840px;
+        flex-wrap: wrap;
+
+
+    }
+}
+
+@media only screen and (max-width:872px) {
+    .headir_img_two {
+        margin-left: 210px;
+        width: 840px;
+
+
+
+
+    }
+}
+
+@media only screen and (max-width:686px) {
+    .headir_imh_feve {
+        margin-left: 210px;
+        width: 840px;
+        margin-top: 230px;
+
+
+
+    }
+}
+
+@media only screen and (max-width:686px) {
+    .newil_seliv {
+        margin-left: 210px;
+        width: 840px;
+        margin-top: 230px;
+
+
+
+    }
+}
+
+@media only screen and (max-width:1444px) {
+    .trsc_abut {
+        margin-left: 100px;
+
+
+    }
+}
+
+@media only screen and (max-width:997px) {
+    .repli_treppoy {
+        margin-left: 300px;
+
+
+    }
+}
